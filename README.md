@@ -13,7 +13,7 @@ I am Mark Karevin D. Perfecto, a passionate coder with strong skills in database
   [View Certificate](https://courses.cognitiveclass.ai/certificates/c06b005ce8f547f9882e3335b19e60cb)
 
 ## Skill Sets
-- **Programming:** Java, JavaScript
+- **Programming:** Java, JavaScript, Python
 - **Databases:** IBM DB2 Cloud
 - **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
